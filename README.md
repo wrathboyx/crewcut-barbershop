@@ -1,2 +1,3 @@
-# java
-Latihan Tugas Java
+# crewcut-barbershop
+
+Just for my project assignment
